@@ -31,16 +31,15 @@ export function Hero() {
           Dika Alfi Damara
         </Highlight>
         <div className="max-w-2xl text-base md:text-xl my-8 dark:text-neutral-200">
-          Saya seorang{" "}
+          I am a junior{" "}
           <LinkPreview
             url="https://id.wikipedia.org/wiki/Pengembangan_web_tampak-depan"
             className="font-bold"
           >
             Frontend Developer
           </LinkPreview>{" "}
-          junior yang antusias dalam membangun antarmuka web yang menarik dan
-          responsif. Dengan semangat belajar yang tinggi, saya terus mengasah
-          keterampilan dalam{" "}
+          passionate about building engaging and responsive web interfaces. With
+          a strong enthusiasm for learning, I continuously sharpen my skills in{" "}
           <LinkPreview url="https://react.dev/" className="font-bold">
             React
           </LinkPreview>
@@ -48,11 +47,11 @@ export function Hero() {
           <LinkPreview url="https://nextjs.org/" className="font-bold">
             Next Js
           </LinkPreview>
-          , dan{" "}
+          , and{" "}
           <LinkPreview url="https://tailwindcss.com" className="font-bold">
             Tailwind CSS
           </LinkPreview>{" "}
-          untuk menciptakan pengalaman digital yang lebih baik.
+          to create better digital experiences.
         </div>
         <div className="flex flex-col md:flex-row gap-4 items-center justify-center md:justify-start">
           <Button
